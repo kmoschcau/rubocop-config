@@ -1,0 +1,7 @@
+Layout/AlignHash:
+  EnforcedHashRocketStyle:
+    - table
+    - key
+  EnforcedColonStyle:
+    - table
+    - key
